@@ -371,3 +371,10 @@ The following table provides links to the Docker Hub repositories for each of th
 | Virtual-worker         | [dhruv766/virtual-worker](https://hub.docker.com/repository/docker/dhruv766/virtual-worker/general) |
 | Virtual Customer         | [dhruv766/virtual-customer](https://hub.docker.com/repository/docker/dhruv766/virtual-customer/general) |
 
+
+MS Teams Link:
+
+https://algonquinlivecom-my.sharepoint.com/:v:/g/personal/parm0100_algonquinlive_com/EWYLBfmWuE1NjIdw4ZvyFlMB0bdkJi2xVZzUVejo6dVmKg?e=2pv2gb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+
